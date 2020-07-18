@@ -1,38 +1,26 @@
 [
 {
       "title": "Sony Maa",
-      "genre": "",
-      "year": 29,
-      "season": 3,
-      "imdb": 7.7,
-      "info": "",
-      "episodes": "https://sony247channels.akamaized.net/hls/live/2002595/SonyTen1HD/master_2128.m3u8",
-      "cover": "https://i.ytimg.com/vi/fW9DdJ2piGA/maxresdefault.jpg",
-      "type": "live"
+      
+      "year": 2009,
+      "season": 1,
+      
     }
 ,
 {
       "title": "Sony",
-      "genre": "",
+      
       "year": 2019,
-      "season": 3,
-      "imdb": 7.7,
-      "info": "",
-      "episodes": "https://sony247channels.akamaized.net/hls/live/2002595/SonyTen1HD/master_2128.m3u8",
-      "cover": "https://i.ytimg.com/vi/fW9DdJ2piGA/maxresdefault.jpg",
-      "type": "live"
+      "season": 2,
+      
     }
 ,
 {
       "title": "S1",
-      "genre": "",
-      "year": 2019,
+      
+      "year": 2029,
       "season": 3,
-      "imdb": 7.7,
-      "info": "",
-      "episodes": "https://sony247channels.akamaized.net/hls/live/2002595/SonyTen1HD/master_2128.m3u8",
-      "cover": "https://i.ytimg.com/vi/fW9DdJ2piGA/maxresdefault.jpg",
-      "type": "live"
+      
     }
 
 
