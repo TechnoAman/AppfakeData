@@ -1,4 +1,4 @@
-[[
+[
   {   
     "title" :  "Coachin Shipyard Apprentice Online Form",
     "vacancies" : "358 Post",
@@ -55,63 +55,4 @@
     "date" : "19 July 2020"
   
   }
-  ],
-  [
-    {   
-      "title" :  "Coachin Shipyard Apprentice Online Form",
-      "vacancies" : "358 Post",
-      "lastDate" :  "Last Date : 04/08/2020 ",
-      "beginDate" : "15/07/2020",
-      "fees" :  "0",
-      "agelimit" : "",
-      "admitCardUrl" : "" ,
-      "officialWebsiteUrl" : "https://cochinshipyard.com/Career",
-      "detailsVacancy" : "",
-      "resultUrl" : "",
-      "examDate" : "Notified Soon",
-      "resultDate" : "",
-      "applyOnlineUrl" : "https://csl.cochinshipyard.com:8000/sap/bc/webdynpro/sap/hrrcf_a_candidate_registration?sap-language=EN#" ,
-      "date" : "19 July 2020"
-    
-          
-          
-        },
-    
-    {
-      "title" :  "NCL Various Post Online Form 2020",
-      "vacancies" : "400 Post",
-      "lastDate" :  "Last Date : 23/07/2020 ",
-      "beginDate" : "16/03/2020",
-      "fees" :  "500",
-      "agelimit" : "18 to 30 years",
-      "admitCardUrl" : "" ,
-      "officialWebsiteUrl" : "http://nclcil.in/HI/page.php?pid=34#collapse126",
-      "detailsVacancy" : "",
-      "resultUrl" : "",
-      "examDate" : "Notified Soon",
-      "resultDate" : "",
-      "applyOnlineUrl" : "http://210.212.20.45:50004/Rectt/OurPeople/OnlineApplications/nclRect.php" ,
-      "date" : "19 July 2020"
-    
-    }
-    ,
-    
-    {
-      "title" :  "UPRVUNL Various Post Online Form 2020",
-      "vacancies" : "353 Post",
-      "lastDate" :  "Last Date : 29/07/2020 ",
-      "beginDate" : "07/03/2020",
-      "fees" :  "500",
-      "agelimit" : "18 to 40 years",
-      "admitCardUrl" : "" ,
-      "officialWebsiteUrl" : "https://uprvunl.org/uprvunl/en/news?Newslistslug=uprvunl-en-public-notice",
-      "detailsVacancy" : "",
-      "resultUrl" : "",
-      "examDate" : "Notified Soon",
-      "resultDate" : "",
-      "applyOnlineUrl" : "https://cdn.digialm.com//EForms/configuredHtml/1258/64424/Registration.html" ,
-      "date" : "19 July 2020"
-    
-    }
-    ]
-]
+  ]
