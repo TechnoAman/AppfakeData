@@ -16,7 +16,8 @@
         "examDate" : "Notified Soon",
         "resultDate" : "",
         "applyOnlineUrl" : "https://apply-csbc.com/V1/applicationIndex" ,
-        "date" : "21 July 2020"
+        "date" : "21 July 2020",
+        "notificationUrl" : "http://csbc.bih.nic.in/Advt/EFC/Advt-03-2020-Forest-Guard.pdf"
       
             
             
@@ -36,7 +37,8 @@
         "examDate" : "Notified Soon",
         "resultDate" : "",
         "applyOnlineUrl" : "https://www.ncliti.online/" ,
-        "date" : "21 July 2020"
+        "date" : "21 July 2020",
+        "notificationUrl" : "https://www.sarkariresult.com/2020/ncl-iti-apprentice-1500-post.php"
       
       }
       
@@ -61,7 +63,8 @@
         "examDate" : "August Second Week",
         "resultDate" : "",
         "applyOnlineUrl" : "https://cdn.digialm.com//EForms/configuredHtml/1258/66213/Instruction.html" ,
-        "date" : "20 July 2020"
+        "date" : "20 July 2020",
+        "notificationUrl": "https://www.upenergy.in/site/writereaddata/siteContent/202006171702121858603_17062020.pdf"
       
       },
       
@@ -79,7 +82,9 @@
         "examDate" : "Notified Soon",
         "resultDate" : "",
         "applyOnlineUrl" : "https://cdn.digialm.com/EForms/configuredHtml/1258/66503/Instruction.html" ,
-        "date" : "20 July 2020"
+        "date" : "20 July 2020",
+        "notificationUrl": "https://cdn.digialm.com//per/g01/pub/852/EForms/image/ImageDocUpload/648/1114985194173822763704.pdf"
+
       
       }
       ,
@@ -98,7 +103,8 @@
         "examDate" : "September 2020",
         "resultDate" : "",
         "applyOnlineUrl" : "http://www.allahabadhighcourt.in/event/event_7685_19-07-2020.pdf" ,
-        "date" : "20 July 2020"
+        "date" : "20 July 2020",
+        "notificationUrl": "http://www.allahabadhighcourt.in/event/event_7685_19-07-2020.pdf"
       
       }
       
@@ -122,7 +128,8 @@
         "examDate" : "Notified Soon",
         "resultDate" : "",
         "applyOnlineUrl" : "https://csl.cochinshipyard.com:8000/sap/bc/webdynpro/sap/hrrcf_a_candidate_registration?sap-language=EN#" ,
-        "date" : "19 July 2020"
+        "date" : "19 July 2020",
+        "notificationUrl": "https://cochinshipyard.com/uploads/career/834d65e0e3dfbb0d90b3c11ef20b1076.pdf"
       
             
             
@@ -142,7 +149,8 @@
         "examDate" : "Notified Soon",
         "resultDate" : "",
         "applyOnlineUrl" : "http://210.212.20.45:50004/Rectt/OurPeople/OnlineApplications/nclRect.php" ,
-        "date" : "19 July 2020"
+        "date" : "19 July 2020",
+        "notificationUrl": "http://nclcil.in/recruitment/HEMM%20Notification%20and%20format.pdf"
       
       }
       ,
@@ -161,7 +169,8 @@
         "examDate" : "Notified Soon",
         "resultDate" : "",
         "applyOnlineUrl" : "https://cdn.digialm.com//EForms/configuredHtml/1258/64424/Registration.html" ,
-        "date" : "19 July 2020"
+        "date" : "19 July 2020",
+        "notificationUrl": "https://uprvunl.org/site/writereaddata/UploadNews/corrigendum/pdf/C_202003041702529754.pdf"
       
       }
       
