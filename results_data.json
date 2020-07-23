@@ -38,7 +38,7 @@
             "agelimit" : "",
             "admitCardUrl" :
              "https://cdn.digialm.com//EForms/configuredHtml/1258/63700/Instruction.html" ,
-            "officialWebsiteUrl" : "https://www.coalindia.in/index.html",
+            "officialWebsiteUrl" : "https://bseh.org.in/home",
             "detailsVacancy" : "",
             "resultUrl" : "https://www.coalindia.in/en-us/ourbusiness/cbtresult2019.aspx",
             "examDate" : "27-28 Feb 2020",
@@ -49,6 +49,32 @@
             "othersfees" : "0",
             "schoolresultUrl" : "https://www.results.shiksha/haryana/",
             "schooltitle"  :  "Haryana Board Class 12th Result 2020",
+            "recheck" : "" ,
+            "description" : "" 
+           
+                
+                
+         }  ,
+         {   
+            "title" :  "Haryana Board Class 10th, 12th Result 2020",
+            "vacancies" : "Null",
+            "lastDate" :  "",
+            "beginDate" : "",
+            "fees" :  "",
+            "agelimit" : "",
+            "admitCardUrl" :
+             "https://cdn.digialm.com//EForms/configuredHtml/1258/63700/Instruction.html" ,
+            "officialWebsiteUrl" : "http://rajeduboard.rajasthan.gov.in/",
+            "detailsVacancy" : "",
+            "resultUrl" : "https://www.coalindia.in/en-us/ourbusiness/cbtresult2019.aspx",
+            "examDate" : "27-28 Feb 2020",
+            "resultDate" : "",
+            "applyOnlineUrl" : "https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=" ,
+            "date" : "21 July 2020",
+            "notificationUrl" : "https://www.coalindia.in/Portals/13/PDF/mt2019_detailed.pdf",
+            "othersfees" : "0",
+            "schoolresultUrl" : "http://rajresults.nic.in/",
+            "schooltitle"  :  "Rajasthan Board Class 12th Science, Commerce",
             "recheck" : "" ,
             "description" : "" 
            
