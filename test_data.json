@@ -1,47 +1,27 @@
 [ {
-  "date" : "21 July 2020",
+  "date" : "22 July 2020",
   "data" : [
     {   
-      "title" :  "Bihar Police CSBC Forest Guard Online Form 2020",
-      "vacancies" : "484 Post",
-      "lastDate" :  "Last Date : 04/09/2020",
-      "beginDate" : "21/07/2020",
-      "fees" :  "450",
-      "agelimit" : "18 to 23",
+      "title" :  "Rajasthan HC Chauffeur Driver Online Form 2020",
+      "vacancies" : "72 Post",
+      "lastDate" :  "Last Date : 31/08/2020",
+      "beginDate" : " 31/07/2020",
+      "fees" :  "400",
+      "agelimit" : "18 to 40",
       "admitCardUrl" : "" ,
-      "officialWebsiteUrl" : "http://csbc.bih.nic.in/A-EFC.htm",
+      "officialWebsiteUrl" : "https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=",
       "detailsVacancy" : "",
       "resultUrl" : "",
       "examDate" : "Notified Soon",
       "resultDate" : "",
-      "applyOnlineUrl" : "https://apply-csbc.com/V1/applicationIndex" ,
-      "date" : "21 July 2020",
-      "notificationUrl" : "http://csbc.bih.nic.in/Advt/EFC/Advt-03-2020-Forest-Guard.pdf",
-      "othersfees" : "112"
+      "applyOnlineUrl" : "https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=" ,
+      "date" : "22 July 2020",
+      "notificationUrl" : "https://hcraj.nic.in/hcraj/hcraj_admin/uploadfile/recruitment/driver202090.pdf",
+      "othersfees" : "250"
     
           
           
-        },
-    
-    {
-      "title" :  "NCL Apprentice Recruitment Online Form 2020",
-      "vacancies" : "1500 Post",
-      "lastDate" :  "Last Date : 16/08/2020",
-      "beginDate" : "16/03/2020",
-      "fees" :  "0",
-      "agelimit" : "16 to 24 years",
-      "admitCardUrl" : "" ,
-      "officialWebsiteUrl" : "http://nclcil.in/",
-      "detailsVacancy" : "",
-      "resultUrl" : "",
-      "examDate" : "Notified Soon",
-      "resultDate" : "",
-      "applyOnlineUrl" : "https://www.ncliti.online/" ,
-      "date" : "21 July 2020",
-      "notificationUrl" : "http://nclcil.in/recruitment/appren/apprentice_2020_hindi.pdf"
-      ,"othersfees" : "0"
-    }
-    
+        }
     
     
   ]
