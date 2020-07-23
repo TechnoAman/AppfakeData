@@ -90,6 +90,36 @@
             "agelimit" : "",
             "admitCardUrl" :
              "https://cdn.digialm.com//EForms/configuredHtml/1258/63700/Instruction.html" ,
+            "officialWebsiteUrl" : 
+            "https://bseh.org.in/home",
+            "detailsVacancy" : "",
+            "resultUrl" : "https://www.coalindia.in/en-us/ourbusiness/cbtresult2019.aspx",
+            "examDate" : "27-28 Feb 2020",
+            "resultDate" : "",
+            "applyOnlineUrl" :
+             "https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=" ,
+            "date" : "21 July 2020",
+            "notificationUrl" : 
+            "https://www.coalindia.in/Portals/13/PDF/mt2019_detailed.pdf",
+            "othersfees" : "0",
+            "schoolresultUrl" :
+             "https://bsehexam2017.in/OpenResult2020/mainresult.aspx",
+            "schooltitle"  :  "HOS Secondary result Haryana",
+            "recheck" : "" ,
+            "description" : "" 
+           
+                
+                
+         }  ,
+         {   
+            "title" :  "Haryana Board Class 10th, 12th Result 2020",
+            "vacancies" : "Null",
+            "lastDate" :  "",
+            "beginDate" : "",
+            "fees" :  "",
+            "agelimit" : "",
+            "admitCardUrl" :
+             "https://cdn.digialm.com//EForms/configuredHtml/1258/63700/Instruction.html" ,
             "officialWebsiteUrl" : "http://www.pseb.ac.in/",
             "detailsVacancy" : "",
             "resultUrl" : "https://www.coalindia.in/en-us/ourbusiness/cbtresult2019.aspx",
@@ -145,17 +175,19 @@
                 "admitCardUrl" :
                  "https://cdn.digialm.com//EForms/configuredHtml/1258/63700/Instruction.html" ,
                 "officialWebsiteUrl" : 
-                "https://joinindianarmy.nic.in/writereaddata/Portal/Images/pdf/PART_MERIT_LIST_FOR_TES-43_COURSE.pdf",
+                "https://joinindianarmy.nic.in/",
                 "detailsVacancy" : "",
                 "resultUrl" : "https://www.coalindia.in/en-us/ourbusiness/cbtresult2019.aspx",
                 "examDate" : "27-28 Feb 2020",
                 "resultDate" : "",
-                "applyOnlineUrl" : "https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=" ,
+                "applyOnlineUrl" :
+                 "https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=" ,
                 "date" : "21 July 2020",
-                "notificationUrl" : "https://www.coalindia.in/Portals/13/PDF/mt2019_detailed.pdf",
+                "notificationUrl" : 
+                "https://www.coalindia.in/Portals/13/PDF/mt2019_detailed.pdf",
                 "othersfees" : "0",
                 "schoolresultUrl" :
-                 "https://joinindianarmy.nic.in/Authentication.aspx",
+                 "https://joinindianarmy.nic.in/writereaddata/Portal/Images/pdf/PART_MERIT_LIST_FOR_TES-43_COURSE.pdf",
                 "schooltitle"  :  "Indian Army 10+2 TES 43 Merit List",
                 "recheck" : "" ,
                 "description" : "" 
@@ -165,5 +197,63 @@
              }   
                  ]
             }
+            ,
+            {
+                "date" : "17 July 2020",
+                "data" : [
+                  {   
+                    "title" :  "Haryana TET HTET Revised Result 2020",
+                    "vacancies" : "Not Known",
+                    "lastDate" :  "Last Date : 21/10/2019 ",
+                    "beginDate" : "07/10/2019",
+                    "fees" :  "1000",
+                    "agelimit" : "NA",
+                    "admitCardUrl" : "http://49.50.105.37/admitlogin.aspx" ,
+                    "officialWebsiteUrl" : "https://bseh.org.in/",
+                    "detailsVacancy" : "",
+                    "resultUrl" : "https://results.bseh.org.in/",
+                    "examDate" : "16-17 November 2019",
+                    "resultDate" : "",
+                    "applyOnlineUrl" : "https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=" ,
+                    "date" : "22 July 2020",
+                    "notificationUrl" : "https://bseh.org.in/uploads/files/c364e28f0cc2706441ae3c5c52578edc.jpg",
+                    "othersfees" : "500",
+                    "schooltitle" : ""
+                  
+                        
+                        
+                 },
+                 {   
+                    "title" :  "Haryana Board Class 10th, 12th Result 2020",
+                    "vacancies" : "Null",
+                    "lastDate" :  "",
+                    "beginDate" : "",
+                    "fees" :  "",
+                    "agelimit" : "",
+                    "admitCardUrl" :
+                     "https://cdn.digialm.com//EForms/configuredHtml/1258/63700/Instruction.html" ,
+                    "officialWebsiteUrl" : 
+                    "https://jac.jharkhand.gov.in/jac/",
+                    "detailsVacancy" : "",
+                    "resultUrl" : "https://www.coalindia.in/en-us/ourbusiness/cbtresult2019.aspx",
+                    "examDate" : "27-28 Feb 2020",
+                    "resultDate" : "",
+                    "applyOnlineUrl" :
+                     "https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=" ,
+                    "date" : "21 July 2020",
+                    "notificationUrl" : 
+                    "https://www.coalindia.in/Portals/13/PDF/mt2019_detailed.pdf",
+                    "othersfees" : "0",
+                    "schoolresultUrl" :
+                     "https://www.jacresults.com/",
+                    "schooltitle"  :  "Jharkhand Board Class 12th Result 2020",
+                    "recheck" : "" ,
+                    "description" : "" 
+                   
+                        
+                        
+                 }   
+                     ]
+                }
     
 ]
