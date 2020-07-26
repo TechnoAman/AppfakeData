@@ -215,7 +215,47 @@
     
           
           
-   }  
+   },
+   {   
+    "title" :  "Rajasthan Board Class 12th Science, Commerce",
+    "vacancies" : "",
+    "lastDate" :  "",
+    "beginDate" : "",
+    "fees" :  [],
+    "agelimit" : "",
+    "admitCardUrl" :
+    []
+     ,
+    "officialWebsiteUrl" : "http://rajeduboard.rajasthan.gov.in/",
+    "detailsVacancy" : "",
+    "resultUrl" :
+    [
+      {
+       "url": "https://www.coalindia.in/en-us/ourbusiness/cbtresult2019.aspx" ,
+       "message" : "Click Here",
+       "name" : "Result"
+      }
+
+
+      ]
+    ,
+    "examDate" : "",
+    "resultDate" : "",
+    "applyOnlineUrl" : [] ,
+    "date" : "22 July 2020",
+    "notificationUrl" : "https://flutter.dev",
+    "othersfees" : "0",
+    "schoolresultUrl" : "https://www.results.shiksha/haryana/",
+    "schooltitle"  :  "Haryana Board Class 12th Result 2020",
+    "recheck" : "" ,
+    "description" : "" 
+
+
+
+ } 
+]
+}
+   
        ]
   }
 
