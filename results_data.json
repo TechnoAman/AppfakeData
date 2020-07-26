@@ -1,5 +1,54 @@
 [
   {
+    "date" : "26 July 2020",
+    "data" : [
+      {   
+        "title" :  "DSSSB Assistant Teacher Primary Result 2020",
+        "vacancies" : "982 Post",
+        "lastDate" :  "Last Date : 15/10/2019",
+        "beginDate" : "16/09/2019",
+        "fees" :  [
+           {"general" : "₹ 100" , "others" : "₹ 0" , "title" : "Fees"}
+         
+         ],
+        "agelimit" : " Max 30 Years",
+        "admitCardUrl" : [
+           {
+            "url":"https://cdn.digialm.com//EForms/configuredHtml/1258/63014/login.html",
+            "message" : "Click Here",
+            "name" : "Admit Card"
+           }
+           ] ,
+        "officialWebsiteUrl" : "http://dsssb.delhi.gov.in/",
+        "detailsVacancy" : "",
+        "resultUrl" : [
+         {
+          "url":"http://dsssb.delhi.gov.in/sites/default/files/All-PDF/img07242020_0002.pdf",
+          "message" : "Selected List",
+          "name" : "Result"
+         }
+         
+         ]  ,
+        "examDate" : "November 2019",
+        "resultDate" : "",
+        "applyOnlineUrl" :[
+        {
+         "url":"https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=",
+         "message" : "Click Here",
+         "name" : "Apply Online"
+        }]
+          ,
+        "date" : "26 July 2020",
+        "notificationUrl" : "http://dsssb.delhi.gov.in/sites/default/files/All-PDF/advt19.pdf",
+        "othersfees" : "0",
+        "schooltitle" : ""
+      
+            
+            
+     }  
+         ]
+    },
+  {
     "date" : "25 July 2020",
     "data" : [
       {   
