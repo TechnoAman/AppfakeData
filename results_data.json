@@ -1,6 +1,6 @@
 [
   {
-    "date" : "23 July 2020",
+    "date" : "25 July 2020",
     "data" : [
       {   
         "title" :  "Nabard Office Attendant Mains Result 2020",
@@ -54,7 +54,7 @@
          "name" : "Apply Online"
         }]
           ,
-        "date" : "22 July 2020",
+        "date" : "25 July 2020",
         "notificationUrl" : "https://www.nabard.org/auth/writereaddata/CareerNotices/2412190027Final%20-%20Advertisement%20-%20Group%20C%20-Office%20Attendant%20-2019.pdf",
         "othersfees" : "0",
         "schooltitle" : ""
@@ -63,7 +63,68 @@
             
      }  
          ]
-    }
+    },
+
+  {
+    "date" : "24 July 2020",
+    "data" : [
+      {   
+        "title" :  "Haryana Board Class 10th, 12th Result 2020",
+        "vacancies" : "Null",
+        "lastDate" :  "",
+        "beginDate" : "",
+        "fees" :  "",
+        "agelimit" : "",
+        "admitCardUrl" :
+        [
+          {
+           "url":"" ,
+           "message" : "Click Here",
+           "name" : "Admit Card"
+          }
+          
+          ]
+         ,
+        "officialWebsiteUrl" : "https://bseh.org.in/",
+        "detailsVacancy" : "",
+        "resultUrl" :
+        [
+          {
+           "url":"https://bsehexam2017.in/12OpenResult/mainresult.aspx" ,
+           "message" : "Click Here",
+           "name" : "Class 12th Open School"
+          },
+          {
+            "url":"https://www.results.shiksha/haryana/" ,
+            "message" : "Click Here",
+            "name" : "Class 12th"
+           },
+           {
+            "url":"https://bseh.org.in/" ,
+            "message" : "Click Here",
+            "name" : "Class 10th"
+           }
+           
+          
+          ]
+        ,
+        "examDate" : "",
+        "resultDate" : "",
+        "applyOnlineUrl" : "" ,
+        "date" : "24 July 2020",
+        "notificationUrl" : "",
+        "othersfees" : "0",
+        "schoolresultUrl" : "https://www.results.shiksha/haryana/",
+        "schooltitle"  :  "Haryana Board Class 12th Result 2020",
+        "recheck" : "" ,
+        "description" : "" 
+       
+            
+            
+     } 
+    ]
+  }
+    
   ,
   {
   "date" : "22 July 2020",
@@ -114,4 +175,6 @@
           
    }  
        ]
-  }]
+  }
+
+]
