@@ -495,7 +495,55 @@
       "schooltitle" : ""
     
           
-   }
+   },
+   {   
+    "title" :  "Jharkhand Board Class 10th,12th Result 2020",
+    "vacancies" : "",
+    "lastDate" :  "",
+    "beginDate" : "",
+    "fees" :  [],
+    "agelimit" : "",
+    "admitCardUrl" :
+    []
+     ,
+    "officialWebsiteUrl" : "https://jac.jharkhand.gov.in/jac/",
+    "detailsVacancy" : "",
+    "resultUrl" :
+    [
+      {
+       "url":"https://www.jacresults.com/sec-all/index.php" ,
+       "message" : "Click Here",
+       "name" : "Result 10th"
+      },
+      {
+        "url":"https://www.jacresults.com/arts/index.php" ,
+        "message" : "Arts",
+        "name" : "Result 12th"
+       },
+       {
+        "url":"https://www.jacresults.com/science/index.php" ,
+        "message" : "Science",
+        "name" : "Result 12th"
+       },
+       {
+        "url":"https://www.jacresults.com/commerce/index.php" ,
+        "message" : "Commerce",
+        "name" : "Result 12th"
+       }
+
+      ]
+    ,
+    "examDate" : "",
+    "resultDate" : "",
+    "applyOnlineUrl" : [] ,
+    "date" : "18 July 2020",
+    "notificationUrl" : "https://flutter.dev",
+    "othersfees" : "0",
+    "schoolresultUrl" : "https://www.results.shiksha/haryana/",
+    "schooltitle"  :  "Ha",
+    "recheck" : "" ,
+    "description" : "" 
+ }
     ]
   }
 ]
