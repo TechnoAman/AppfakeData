@@ -456,7 +456,43 @@
         "schooltitle"  :  "Ha",
         "recheck" : "" ,
         "description" : "" 
-     } 
+     } ,
+     {   
+      "title" :  "Indian Army 10+2 TES 43 Merit List",
+      "vacancies" : "90 Post",
+      "lastDate" :  "Last Date : 13/11/2019",
+      "beginDate" : "15/10/2019",
+      "fees" :  [
+         {"general" : "₹ 0" , "others" : "₹ 0" , "title" : "Fees"}
+       
+       ],
+      "agelimit" : "16y 6month - 19y 6month",
+      "admitCardUrl" : [
+         
+         ] ,
+      "officialWebsiteUrl" : "https://www.coalindia.in/index.html",
+      "detailsVacancy" : "",
+      "resultUrl" : [
+       {
+        "url":"https://joinindianarmy.nic.in/writereaddata/Portal/Images/pdf/PART_MERIT_LIST_FOR_TES-43_COURSE.pdf",
+        "message" : "Merit List",
+        "name" : "Result"
+       }
+       
+       ]  ,
+      "examDate" : "27-28 Feb 2020",
+      "resultDate" : "",
+      "applyOnlineUrl" :[]
+        ,
+      "date" : "18 July 2020",
+      "notificationUrl" : "https://joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/TES_43.pdf",
+      "othersfees" : "0",
+      "schooltitle" : ""
+    
+          
+          
+   }
+
     ]
   }
 ]
