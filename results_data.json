@@ -411,11 +411,52 @@
         "schooltitle"  :  "Ha",
         "recheck" : "" ,
         "description" : "" 
+     }
+     
     
+    ]
+  },
+  {
+    "date" :"18 July 2020",
+    "data" :[
+      {   
+        "title" :  "Haryana TET HTET Revised Result 2020",
+        "vacancies" : "",
+        "lastDate" :  "",
+        "beginDate" : "",
+        "fees" :  [],
+        "agelimit" : "",
+        "admitCardUrl" :
+        []
+         ,
+        "officialWebsiteUrl" : "http://www.pseb.ac.in/",
+        "detailsVacancy" : "",
+        "resultUrl" :
+        [
+          {
+           "url":"https://results.bseh.org.in/" ,
+           "message" : "Click Here",
+           "name" : "Result"
+          },
+          {
+            "url":"https://bseh.org.in/uploads/files/d9e59310f3c46069d738537addf61363.pdf" ,
+            "message" : "Revised Result",
+            "name" : "Result"
+           }
     
-    
+          ]
+        ,
+        "examDate" : "",
+        "resultDate" : "",
+        "applyOnlineUrl" : [] ,
+        "date" : "21 July 2020",
+        "notificationUrl" : "https://flutter.dev",
+        "othersfees" : "0",
+        "schoolresultUrl" : "https://www.results.shiksha/haryana/",
+        "schooltitle"  :  "Ha",
+        "recheck" : "" ,
+        "description" : "" 
      } 
-    
     ]
   }
 ]
