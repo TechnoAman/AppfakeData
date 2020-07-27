@@ -1,5 +1,46 @@
 [
   {
+    "date" :"27 July 2020",
+    "data" : [
+      {   
+        "title" :  "Rajasthan Board Class 10th Result 2020",
+        "vacancies" : "",
+        "lastDate" :  "",
+        "beginDate" : "",
+        "fees" :  [],
+        "agelimit" : "",
+        "admitCardUrl" :
+        []
+         ,
+        "officialWebsiteUrl" : "http://rajresults.nic.in/",
+        "detailsVacancy" : "",
+        "resultUrl" :
+        [
+          {
+           "url":"http://rajresults.nic.in/" ,
+           "message" : "Link activate 28/07/2020 4:00PM",
+           "name" : "Class 10th Results"
+          }
+          ]
+        ,
+        "examDate" : "",
+        "resultDate" : "",
+        "applyOnlineUrl" : [] ,
+        "date" : "24 July 2020",
+        "notificationUrl" : "https://flutter.dev",
+        "othersfees" : "0",
+        "schoolresultUrl" : "https://www.results.shiksha/haryana/",
+        "schooltitle"  :  "Rajasthan Board Class 10th Result 2020",
+        "recheck" : "" ,
+        "description" : "" 
+    
+    
+    
+     } 
+      
+    ]
+  },
+  {
     "date" : "26 July 2020",
     "data" : [
       {   
