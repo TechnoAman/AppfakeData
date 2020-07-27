@@ -374,6 +374,48 @@
 
  } 
        ]
-  }
+  },
 
+  {
+    "date" : "21 July 2020",
+    "data" : [
+      {   
+        "title" :  "Punjab Board PSEB Class 12th Result 2020",
+        "vacancies" : "",
+        "lastDate" :  "",
+        "beginDate" : "",
+        "fees" :  [],
+        "agelimit" : "",
+        "admitCardUrl" :
+        []
+         ,
+        "officialWebsiteUrl" : "http://www.pseb.ac.in/",
+        "detailsVacancy" : "",
+        "resultUrl" :
+        [
+          {
+           "url":"http://punjab-12th-result.indiaresults.com/pb/pseb/result-of-12-class-march-2020/query.htm" ,
+           "message" : "Click Here",
+           "name" : "Result 12th"
+          }
+    
+          ]
+        ,
+        "examDate" : "",
+        "resultDate" : "",
+        "applyOnlineUrl" : [] ,
+        "date" : "21 July 2020",
+        "notificationUrl" : "https://flutter.dev",
+        "othersfees" : "0",
+        "schoolresultUrl" : "https://www.results.shiksha/haryana/",
+        "schooltitle"  :  "Ha",
+        "recheck" : "" ,
+        "description" : "" 
+    
+    
+    
+     } 
+    
+    ]
+  }
 ]
