@@ -3,6 +3,41 @@
     "date" :"27 July 2020",
     "data" : [
       {   
+        "title" :  "AKTU B.Tech Third Year Result 2020",
+        "vacancies" : "",
+        "lastDate" :  "",
+        "beginDate" : "",
+        "fees" :  [],
+        "agelimit" : "",
+        "admitCardUrl" :
+        []
+         ,
+        "officialWebsiteUrl" : "https://aktu.ac.in/",
+        "detailsVacancy" : "",
+        "resultUrl" :
+        [
+          {
+           "url":"https://erp.aktu.ac.in/WebPages/OneView/OneView.aspx" ,
+           "message" : "Click Here",
+           "name" : "Result"
+          }
+          ]
+        ,
+        "examDate" : "",
+        "resultDate" : "",
+        "applyOnlineUrl" : [] ,
+        "date" : "24 July 2020",
+        "notificationUrl" : "https://flutter.dev",
+        "othersfees" : "0",
+        "schoolresultUrl" : "https://www.results.shiksha/haryana/",
+        "schooltitle"  :  "Rajasthan Board Class 10th Result 2020",
+        "recheck" : "" ,
+        "description" : "" 
+    
+    
+    
+     },
+      {   
         "title" :  "Rajasthan Board Class 10th Result 2020",
         "vacancies" : "",
         "lastDate" :  "",
