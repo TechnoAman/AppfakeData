@@ -545,5 +545,48 @@
     "description" : "" 
  }
     ]
+  },
+  {
+    "date" :"17 July 2020",
+    "data" : [
+      {   
+        "title" :  "West Bengal Board Class 10th,12th Result 2020",
+        "vacancies" : "",
+        "lastDate" :  "",
+        "beginDate" : "",
+        "fees" :  [],
+        "agelimit" : "",
+        "admitCardUrl" :
+        []
+         ,
+        "officialWebsiteUrl" : "http://wbbse.org/",
+        "detailsVacancy" : "",
+        "resultUrl" :
+        [
+          {
+           "url":"http://wbresults.nic.in/highersecondary/wbhsres.htm" ,
+           "message" : "Click Here",
+           "name" : "Result 12th"
+          },
+          {
+            "url":"http://wbresults.nic.in/madhyamik20/wbmpres.htm" ,
+            "message" : "Arts",
+            "name" : "Result 10th"
+           }
+    
+          ]
+        ,
+        "examDate" : "",
+        "resultDate" : "",
+        "applyOnlineUrl" : [] ,
+        "date" : "17 July 2020",
+        "notificationUrl" : "https://flutter.dev",
+        "othersfees" : "0",
+        "schoolresultUrl" : "https://www.results.shiksha/haryana/",
+        "schooltitle"  :  "Ha",
+        "recheck" : "" ,
+        "description" : "" 
+     }
+    ]
   }
 ]
