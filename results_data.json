@@ -229,7 +229,7 @@
       "date" : "24 July 2020",
       "data" : [
         {   
-          "title" :  "Haryana Board Class 10th, 12th Result 2020",
+          "title" :  "Haryana Board Class 10th, 12th,HOS Result 2020",
           "vacancies" : "",
           "lastDate" :  "",
           "beginDate" : "",
@@ -256,6 +256,11 @@
               "url":"https://bseh.org.in/" ,
               "message" : "Click Here",
               "name" : "Class 10th"
+             },
+             {
+              "url":"https://bsehexam2017.in/OpenResult2020/mainresult.aspx" ,
+              "message" : "Click Here",
+              "name" : "Class 12th HOS"
              }
   
   
@@ -490,49 +495,7 @@
       "schooltitle" : ""
     
           
-          
-   },
-   {   
-    "title" :  "Indian Army 10+2 TES 43 Merit List",
-    "vacancies" : "90 Post",
-    "lastDate" :  "Last Date : 13/11/2019",
-    "beginDate" : "16/09/2019",
-    "fees" :  [
-       {"general" : "₹ 0" , "others" : "₹ 0" , "title" : "Fees"}
-     
-     ],
-    "agelimit" : "16y 6month - 19y 6month",
-    "admitCardUrl" : [
-      
-       ] ,
-    "officialWebsiteUrl" : "https://joinindianarmy.nic.in/",
-    "detailsVacancy" : "",
-    "resultUrl" : [
-     {
-      "url":"https://joinindianarmy.nic.in/writereaddata/Portal/Images/pdf/PART_MERIT_LIST_FOR_TES-43_COURSE.pdf",
-      "message" : "Merit List",
-      "name" : "Result"
-     }
-     
-     ]  ,
-    "examDate" : "NA",
-    "resultDate" : "",
-    "applyOnlineUrl" :[
-    {
-     "url":"https://hcraj.nic.in/hcraj/recruitment_detail.php?id=MzI=",
-     "message" : "Click Here",
-     "name" : "Apply Online"
-    }]
-      ,
-    "date" : "18 July 2020",
-    "notificationUrl" : "https://joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/TES_43.pdf",
-    "othersfees" : "0",
-    "schooltitle" : ""
-  
-        
-        
- }  
-
+   }
     ]
   }
 ]
