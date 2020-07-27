@@ -36,7 +36,42 @@
     
     
     
-     } 
+     },
+     {   
+      "title" :  "MP Board Class 12th Result 2020",
+      "vacancies" : "",
+      "lastDate" :  "",
+      "beginDate" : "",
+      "fees" :  [],
+      "agelimit" : "",
+      "admitCardUrl" :
+      []
+       ,
+      "officialWebsiteUrl" : "http://mpbse.nic.in/",
+      "detailsVacancy" : "",
+      "resultUrl" :
+      [
+        {
+         "url":"http://mpresults.nic.in/mpbse/XIIHSSC-2020/HSSC_2020-XII.htm" ,
+         "message" : "Click Here",
+         "name" : "Result"
+        }
+        ]
+      ,
+      "examDate" : "",
+      "resultDate" : "",
+      "applyOnlineUrl" : [] ,
+      "date" : "27 July 2020",
+      "notificationUrl" : "https://flutter.dev",
+      "othersfees" : "0",
+      "schoolresultUrl" : "https://www.results.shiksha/haryana/",
+      "schooltitle"  :  "2020",
+      "recheck" : "" ,
+      "description" : "" 
+  
+  
+  
+   } 
       
     ]
   },
