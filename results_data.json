@@ -327,7 +327,7 @@
           
           
    },{   
-    "title" :  "Haryana Board Class 10th, 12th Result 2020",
+    "title" :  "Rajasthan Board Class 12th Science, Commerce,Arts Results 2020",
     "vacancies" : "",
     "lastDate" :  "",
     "beginDate" : "",
@@ -336,24 +336,24 @@
     "admitCardUrl" :
     []
      ,
-    "officialWebsiteUrl" : "https://bseh.org.in/",
+    "officialWebsiteUrl" : "http://rajresults.nic.in/",
     "detailsVacancy" : "",
     "resultUrl" :
     [
       {
-       "url":"https://bsehexam2017.in/12OpenResult/mainresult.aspx" ,
-       "message" : "Click Here",
-       "name" : "Class 12th Open School"
+       "url":"http://rajresults.nic.in/rescomrbse2020bser.aspx" ,
+       "message" : "Commerce",
+       "name" : "Class 12th "
       },
       {
-        "url":"https://www.results.shiksha/haryana/" ,
-        "message" : "Click Here",
+        "url":"http://rajresults.nic.in/Science2020bser.aspx" ,
+        "message" : "Science",
         "name" : "Class 12th"
        },
        {
-        "url":"https://bseh.org.in/" ,
-        "message" : "Click Here",
-        "name" : "Class 10th"
+        "url":"http://rajresults.nic.in/resBSER2020arts.aspx" ,
+        "message" : "Arts",
+        "name" : "Class 12th"
        }
 
 
@@ -362,11 +362,11 @@
     "examDate" : "",
     "resultDate" : "",
     "applyOnlineUrl" : [] ,
-    "date" : "24 July 2020",
+    "date" : "21 July 2020",
     "notificationUrl" : "https://flutter.dev",
     "othersfees" : "0",
     "schoolresultUrl" : "https://www.results.shiksha/haryana/",
-    "schooltitle"  :  "Haryana Board Class 12th Result 2020",
+    "schooltitle"  :  "Ha",
     "recheck" : "" ,
     "description" : "" 
 
