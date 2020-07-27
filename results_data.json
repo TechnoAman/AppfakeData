@@ -215,39 +215,7 @@
     
           
           
-   },
-   {   
-    "title" :  "Haryana Board Class 10th, 12th Result 2020",
-    "vacancies" : "",
-    "lastDate" :  "",
-    "beginDate" : "",
-    "fees" :  [],
-    "agelimit" : "",
-    "admitCardUrl" :
-    []
-     ,
-    "officialWebsiteUrl" : "https://bseh.org.in/",
-    "detailsVacancy" : "",
-    "resultUrl" :
-    [
-      {
-       "url":"https://bsehexam2017.in/12OpenResult/mainresult.aspx" ,
-       "message" : "Click Here",
-       "name" : "Class 12th Open School"
-      },
-      {
-        "url":"https://www.results.shiksha/haryana/" ,
-        "message" : "Click Here",
-        "name" : "Class 12th"
-       },
-       {
-        "url":"https://bseh.org.in/" ,
-        "message" : "Click Here",
-        "name" : "Class 10th"
-       }
-]
-}
-   
+   }
        ]
   }
 
