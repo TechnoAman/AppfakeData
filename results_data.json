@@ -493,33 +493,29 @@
           
    },
    {   
-    "title" :  "DSSSB Assistant Teacher Primary Result 2020",
-    "vacancies" : "982 Post",
-    "lastDate" :  "Last Date : 15/10/2019",
+    "title" :  "Indian Army 10+2 TES 43 Merit List",
+    "vacancies" : "90 Post",
+    "lastDate" :  "Last Date : 13/11/2019",
     "beginDate" : "16/09/2019",
     "fees" :  [
-       {"general" : "₹ 100" , "others" : "₹ 0" , "title" : "Fees"}
+       {"general" : "₹ 0" , "others" : "₹ 0" , "title" : "Fees"}
      
      ],
-    "agelimit" : " Max 30 Years",
+    "agelimit" : "16y 6month - 19y 6month",
     "admitCardUrl" : [
-       {
-        "url":"https://cdn.digialm.com//EForms/configuredHtml/1258/63014/login.html",
-        "message" : "Click Here",
-        "name" : "Admit Card"
-       }
+      
        ] ,
-    "officialWebsiteUrl" : "http://dsssb.delhi.gov.in/",
+    "officialWebsiteUrl" : "https://joinindianarmy.nic.in/",
     "detailsVacancy" : "",
     "resultUrl" : [
      {
-      "url":"http://dsssb.delhi.gov.in/sites/default/files/All-PDF/img07242020_0002.pdf",
-      "message" : "Selected List",
+      "url":"https://joinindianarmy.nic.in/writereaddata/Portal/Images/pdf/PART_MERIT_LIST_FOR_TES-43_COURSE.pdf",
+      "message" : "Merit List",
       "name" : "Result"
      }
      
      ]  ,
-    "examDate" : "November 2019",
+    "examDate" : "NA",
     "resultDate" : "",
     "applyOnlineUrl" :[
     {
@@ -528,8 +524,8 @@
      "name" : "Apply Online"
     }]
       ,
-    "date" : "26 July 2020",
-    "notificationUrl" : "http://dsssb.delhi.gov.in/sites/default/files/All-PDF/advt19.pdf",
+    "date" : "18 July 2020",
+    "notificationUrl" : "https://joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/TES_43.pdf",
     "othersfees" : "0",
     "schooltitle" : ""
   
