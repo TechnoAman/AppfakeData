@@ -1,29 +1,34 @@
 [
   {
-    "date": "07 August 2020",
+    "date": "15 August 2020",
     "data": [
       {
-        "title": "Coast Guard Assistant Commandant 02/2020 Special Result 2020",
-        "vacancies": "",
+        "title": "NFR Railway Trade Apprentice Online Form 2020",
+        "vacancies": "4499 Post",
         "lastDate": "15/02/2020",
         "beginDate": "09/02/2020",
-        "fees": [],
-        "agelimit": "",
+        "fees":  [
+          {"general" : "₹ 100" , "others" : "₹ 0" , "title" : "Fees"}
+        
+        ],
+        "agelimit": "15 - 24 years",
         "admitCardUrl": [],
-        "officialWebsiteUrl": "http://www.joinindiancoastguard.gov.in/",
+        "officialWebsiteUrl": "https://nfr.indianrailways.gov.in/",
         "detailsVacancy": "",
         "resultUrl": [
-          {
-            "url": "https://joinindiancoastguard.gov.in/pdf/officer/fsb/220/group_ALL.PDF",
-            "message": "Click Here",
-            "name": "Result"
-          }
+          
         ],
         "examDate": "",
         "resultDate": "",
-        "applyOnlineUrl": [],
+        "applyOnlineUrl": [
+          {
+           "url":"http://rrcnfr.co.in/" ,
+           "message" : "Click Here",
+           "name" : "Apply Online"
+          }
+          ] ,
         "date": "24 July 2020",
-        "notificationUrl": "http://www.davp.nic.in/WriteReadData/ADS/eng_10119_34_1920b.pdf",
+        "notificationUrl": "https://nfr.indianrailways.gov.in/cris//uploads/files/1597317634676-Act%20App%20Notification%20Final.pdf",
         "othersfees": "0",
         "schoolresultUrl": "",
         "schooltitle": "",
