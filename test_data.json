@@ -74,6 +74,45 @@
         "schooltitle": "",
         "recheck": "",
         "description": ""
+      },
+      {
+        "title": "NHB Bank Assistant Manager Recruitment 2020 Online Form 2020",
+        "vacancies": "16 Post",
+        "lastDate": "18/09/2020",
+        "beginDate": " 29/08/2020",
+        "fees":  [
+          {"general" : "₹ 850" , "others" : "₹ 175" , "title" : "Fees"}
+          
+        
+        ],
+        "agelimit": "21-30 years",
+        "admitCardUrl": [],
+        "officialWebsiteUrl": "https://nhb.org.in/",
+        "detailsVacancy": "",
+        "resultUrl": [
+          
+        ],
+        "examDate": " October / November 2020",
+        "resultDate": "",
+        "applyOnlineUrl": [
+          {
+           "url":"https://ibpsonline.ibps.in/nhbams1aug20/basic_details.php" ,
+           "message" : "Click Here",
+           "name" : "Registration"
+          },
+          {
+            "url":"https://ibpsonline.ibps.in/nhbams1aug20/" ,
+            "message" : "Click Here",
+            "name" : "Log In"
+           }
+          ] ,
+        "date": "",
+        "notificationUrl": "https://nhb.org.in/wp-content/uploads/2020/08/Detailed-Advertisement-English-1.pdf",
+        "othersfees": "0",
+        "schoolresultUrl": "",
+        "schooltitle": "",
+        "recheck": "",
+        "description": ""
       }
     ]
   },
