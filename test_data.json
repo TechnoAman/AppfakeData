@@ -40,6 +40,40 @@
         "schooltitle": "",
         "recheck": "",
         "description": ""
+      },
+      {
+        "title": "SSB Constable Tradesman Online Form 2020",
+        "vacancies": "1522 Post",
+        "lastDate": "27/09/2020",
+        "beginDate": " 29/08/2020",
+        "fees":  [
+          {"general" : "₹ 100(Male)" , "others" : "₹ 0" , "title" : "Fees"}
+          
+        
+        ],
+        "agelimit": "See Notification",
+        "admitCardUrl": [],
+        "officialWebsiteUrl": "https://ssb.nic.in/",
+        "detailsVacancy": "",
+        "resultUrl": [
+          
+        ],
+        "examDate": "",
+        "resultDate": "",
+        "applyOnlineUrl": [
+          {
+           "url":"https://applyssb.com/SSBOnlineV1/applicationAfterIndex" ,
+           "message" : "Click Here",
+           "name" : "Apply Online"
+          }
+          ] ,
+        "date": "",
+        "notificationUrl": "https://onlinedatafiles.s3.amazonaws.com/ssb_advt_338_2018/ssb_advt_338_2018_CTs.pdf",
+        "othersfees": "0",
+        "schoolresultUrl": "",
+        "schooltitle": "",
+        "recheck": "",
+        "description": ""
       }
     ]
   },
