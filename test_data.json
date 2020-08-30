@@ -117,6 +117,59 @@
     ]
   },
   {
+    "date": "27 August 2020",
+    "data": [
+      {
+        "title": "Bihar Police Lady Constable Recruitment Online Form 2020 (Only ST candidates)",
+        "vacancies": "454 Post",
+        "lastDate": "24/07/2020",
+        "beginDate": "24/06/2020",
+        "fees":  [
+          {"general" : "not Applicable" , "others" : "₹ 112 (ST)" , "title" : "Fees"}
+        
+        ],
+        "agelimit": "18 - 30 years",
+        "admitCardUrl": [],
+        "officialWebsiteUrl": "https://www.csbcbponline.com/",
+        "detailsVacancy": "",
+        "resultUrl": [
+          
+        ],
+        "examDate": "",
+        "resultDate": "",
+        "applyOnlineUrl": [
+          {
+           "url":"https://apply-csbc.com/V3/applicationIndex" ,
+           "message" : "Click Here",
+           "name" : "Apply Online"
+          },
+          {
+            "url":"https://apply-csbc.com/V1Photo/applicationIndex" ,
+            "message" : "Click Here",
+            "name" : "Re-Upload Photo Sign"
+           },
+           {
+            "url":"http://csbc.bih.nic.in/Advt/Syllabus-2020-LC.pdf" ,
+            "message" : "Click Here",
+            "name" : "Syllabus"
+           },
+           {
+            "url":"http://csbc.bih.nic.in/Advt/Notice-26-08-2020.pdf" ,
+            "message" : "Click Here",
+            "name" : "Re-Upload Photo Sign Notice"
+           }
+          ] ,
+        "date": "",
+        "notificationUrl": "http://csbc.bih.nic.in/Advt/Advt-01-2020-LC.pdf",
+        "othersfees": "0",
+        "schoolresultUrl": "",
+        "schooltitle": "",
+        "recheck": "",
+        "description": ""
+      }
+    ]
+  }
+  {
     "date": "15 August 2020",
     "data": [
       {
