@@ -178,7 +178,9 @@
         "lastDate": "16/09/2020",
         "beginDate": "28/08/2020",
         "fees":  [
-          {"general" : "₹ 100" , "others" : "₹ 25(SC/ST and Female Bihar)" , "title" : "Fees"}
+          {"general" : "₹ 100" , "others" : "₹ 25" , "title" : "Fees"}
+          ,
+          {"general" : "₹ 25" , "others" : "₹ 25" , "title" : "Female(Bihar)"}
         
         ],
         "agelimit": "33 -NA years",
